@@ -11,14 +11,7 @@ export const environment = {
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBobsBGLbHlzBlC66tma7yteyJYwGGDi3Q",
-    authDomain: "color-patch.firebaseapp.com",
-    databaseURL: "https://color-patch.firebaseio.com",
-    projectId: "color-patch",
-    storageBucket: "color-patch.appspot.com",
-    messagingSenderId: "918956029955",
-    appId: "1:918956029955:web:1a65539281e3a12d8b3636",
-    measurementId: "G-HZ6J0N046F"
+    // INSERT HERE YOUR FIREBASE CONFIGURATION INFO !!!
   }
 };
 
